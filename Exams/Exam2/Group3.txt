@@ -1,0 +1,10 @@
+pseudo code <void addBackDList()>
+
+1.check if double linked ist is valid
+2.allocate new memory for new link
+3.assign new value to the new link
+4.put the new link to the previous link of the backsentinel
+5.re-connect the double linked list
+8.increment the size of the double linked list
+
+We're done!
